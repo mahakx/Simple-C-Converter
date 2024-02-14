@@ -1,6 +1,6 @@
 /*
 Program Name: Simple Converter
-Author/Student Num: Maha Khan / 251312708
+Author: Maha Khan
 Purpose:  In this program the user is asked what she/he wants to do. An integer can be entered with the following six actions associated with different values of the integer. 
 You can assume that the user will always enter an integer.
 - 1 for conversion between Kilograms and Pounds (1 kilogram == 2.20462 pounds)
